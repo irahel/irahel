@@ -1,16 +1,16 @@
-### Hi there 👋
+<a alt="Github banner" href="https://imgur.com/zvjqDkZ"><img src="https://i.imgur.com/zvjqDkZ.jpg" title="source: imgur.com" /></a>
+## 
 
-<!--
-**irahel/irahel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> Olá, eu sou Rahel. <br>
+Atuo como Instrutor do Módulo de Ciencia da Computação na Trybe, sou Pesquisador e Game Dev nas horas vagas. <br>
+Alguns anos aprendendo e desenvolvendo jogos indie na Unity 5 com C#. <br>
+Já tive experiências codificando mobile multiplataforma e back-end WEB. <br>
+Sou graduado em Ciência da Computação. onde obtive o titulo de Summa Cum Laude pelo desempenho, e Mestre em Computação pela UFC pesquisando e melhorando redes interplanetárias. <br>
+Meu lema é Educação e respeito em primeiro lugar. <br>
+Estou sempre em busca de conhecimento. <h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/irahel">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=irahel&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=BB0000&icon_color=BB0000&text_color=D3D3D3&bg_color=0,000000,4A0000" alt="irahel's Github Stats">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irahel&layout=compact&title_color=BB0000&text_color=FFFFFF&bg_color=0,000000,4A0000"/>
+</div>
