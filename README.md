@@ -10,8 +10,7 @@ Meu grande amor na tecnologia é Python <3<br>
 
 Sou graduado em Ciência da Computação, onde obtive o titulo de Summa Cum Laude pelo desempenho, e Mestre em Computação pela UFC pesquisando e melhorando redes interplanetárias. <br>
 
-Estou sempre em busca de conhecimento e colaboração.<br>
-Estou sempre em busca de conhecimento. <h3>
+Estou sempre em busca de conhecimento e colaboração.<br><h3>
 
 <div align="center">
   <a href="https://github.com/irahel">
