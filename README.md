@@ -1,18 +1,18 @@
 ## 👋 Olá, eu sou Rahel! 🐍
 
-<img align="right" width="400" alt="Rahels photo" src="https://i.ibb.co/VNYQ2qF/rael-celeste.png"  />
+<img align="right" width="300" alt="Rahels photo" src="https://i.ibb.co/VNYQ2qF/rael-celeste.png"  />
 
 💚 Hoje sou Instrutor do Módulo de *Ciencia da Computação na [Trybe](https://github.com/betrybe)!*.
-_Aplicando Python, Algoritmos, Redes e Estruturas de Dados;_
+- _Aplicando Python, Algoritmos, Redes e Estruturas de Dados;_
 
 👾 Game Dev nas horas vagas!
-_Alguns anos aprendendo e desenvolvendo jogos indie na Unity 5 com C#;_
+- _Alguns anos aprendendo e desenvolvendo jogos indie na Unity 5 com C#;_
 
 🐝 Codando na [Arapuá]([https://github.com/betrybe](https://github.com/arapua))
-_Apaixonado por novas tecnologias;_
+- _Apaixonado por novas tecnologias;_
 
 🎓 Graduado e Mestre em Ciência da Computação
-_Summa Cum Laude;_
+- _Summa Cum Laude;_
 
 
 <div align="center">
