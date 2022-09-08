@@ -17,6 +17,6 @@
 
 <div align="center">
   <a href="https://github.com/irahel">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=irahel&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=BB0000&icon_color=BB0000&text_color=D3D3D3&bg_color=0,000000,4A0000" alt="irahel's Github Stats">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irahel&layout=compact&title_color=BB0000&text_color=FFFFFF&bg_color=0,000000,4A0000"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=irahel&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=BB0000&icon_color=BB0000&text_color=D3D3D3&bg_color=0,000000,4A0000" alt="irahel's Github Stats">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irahel&layout=compact&title_color=BB0000&text_color=FFFFFF&bg_color=0,000000,4A0000"/>
 </div>
