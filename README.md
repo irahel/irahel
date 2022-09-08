@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou Rahel! 🐍
 
-<img align="right" width="300" alt="Rahels photo" src="https://i.ibb.co/VNYQ2qF/rael-celeste.png"  />
+<img align="right" width="270" alt="Rahels photo" src="https://i.ibb.co/VNYQ2qF/rael-celeste.png"  />
 
 💚 Hoje sou Instrutor do Módulo de *Ciencia da Computação na [Trybe](https://github.com/betrybe)!*.
 - _Aplicando Python, Algoritmos, Redes e Estruturas de Dados;_
