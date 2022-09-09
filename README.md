@@ -28,6 +28,6 @@
 
 <div align="center">
 <a href="https://github.com/LaviniaUnder">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=irahel&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=8997cc&icon_color=f4d8d3&text_color=e6dcdb&bg_color=513c3f" alt="irahel's Github Stats">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irahel&layout=compact&title_color=8997cc&text_color=e6dcdb&bg_color=513c3f"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=irahel&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=8997cc&icon_color=f4d8d3&text_color=e9b09e&bg_color=513c3f" alt="irahel's Github Stats">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irahel&layout=compact&title_color=8997cc&text_color=e9b09e&bg_color=513c3f"/>
 </div>
