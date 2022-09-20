@@ -44,7 +44,7 @@
 </div>
 
 <div align="flex-end">
-  <img width="98%" src="https://forthebadge.com/images/badges/built-with-love.svg" />  
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />  
 </div>
   
 
