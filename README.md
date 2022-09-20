@@ -40,7 +40,7 @@
 </div>
 
 <div align="center">
-  <img width="98%" src="https://i.ibb.co/HHVcFX7/Irahel-2.png" />
+  <img width="50%" src="https://i.ibb.co/HHVcFX7/Irahel-2.png" />
 </div>
 
   <!--
