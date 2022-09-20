@@ -46,7 +46,7 @@
 </div>
 -->
 
-<h2><img src="https://github.com/irahel/irahel/blob/main/gifs/gif-ok.gif?raw=true" width="30"> I code with <img src="https://github.com/irahel/irahel/blob/main/gifs/gif-parado.gif?raw=true" width="30"> </h2>
+<h2><img src="https://github.com/irahel/irahel/blob/main/gifs/gif-ok.gif?raw=true" width="30"> I code with <img src="https://github.com/irahel/irahel/blob/main/gifs/gif-running1.gif?raw=true" width="30"> </h2>
 
 <div align="center">
   <img width="50%" src="https://i.ibb.co/HHVcFX7/Irahel-2.png" />
