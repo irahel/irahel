@@ -31,7 +31,7 @@
 </a>
 </div>
 
-<h2><img src="https://github.com/irahel/irahel/blob/main/gifs/gif-conect.gif?raw=true" width="30"> Stats for those love <img src="https://github.com/irahel/irahel/blob/main/gifs/gif-talk.gif?raw=true" width="30"> </h2>
+<h2><img src="https://github.com/irahel/irahel/blob/main/gifs/gif-muybueno.gif?raw=true" width="30"> Stats for those love <img src="https://github.com/irahel/irahel/blob/main/gifs/gif-parado.gif?raw=true" width="30"> </h2>
 
 
 <div align="center">
