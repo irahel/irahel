@@ -1,4 +1,4 @@
-<h2><img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"> Olá, eu sou Rahel! 🐍 </h2>
+<h2><img src="https://github.com/irahel/irahel/blob/main/gifs/gif-hello.gif?raw=true" width="30"> Olá, eu sou Rahel! 🐍 </h2>
 
 <div>
 <img align="right" width="250" alt="Rahels photo" src="https://i.ibb.co/VNYQ2qF/rael-celeste.png"  />
