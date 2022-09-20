@@ -40,11 +40,11 @@
 </div>
 
 <div align="center">
-  <img width="98%" src="https://i.ibb.co/zJcJwh0/Irahel.png" />
+  <img width="98%" src="https://i.ibb.co/HHVcFX7/Irahel-2.png" />
 </div>
 
 <div align="flex-end">
-  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+  <img width="98%" src="https://forthebadge.com/images/badges/built-with-love.svg" />  
 </div>
   
 
