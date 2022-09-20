@@ -32,5 +32,5 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irahel&layout=compact&title_color=8997cc&text_color=e9b09e&bg_color=513c3f"/>
 </div>
 
-<!-- <img width="100%" src="https://tgs.fly.dev/irahel"/> -->
+<img width="100%" src="https://tgs.fly.dev/irahel"/>
 
