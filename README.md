@@ -15,7 +15,7 @@
 🎓 Graduado e Mestre em Ciência da Computação
 > _Summa Cum Laude;_
 
-<h2><img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"> Connect/Contact me <img src="https://github.com/irahel/irahel/blob/main/gifs/gif-talk.gif?raw=true" width="30"> </h2>
+<h2><img src="https://github.com/irahel/irahel/blob/main/gifs/gif-conect.gif?raw=true" width="30"> Connect/Contact me <img src="https://github.com/irahel/irahel/blob/main/gifs/gif-talk.gif?raw=true" width="30"> </h2>
 
 <a href="mailto:rahelmartim@icloud.com" target="_blank">
 <img src=https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=email style="margin-bottom: 5px;" />
