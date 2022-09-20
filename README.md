@@ -31,6 +31,9 @@
 </a>
 </div>
 
+<h2><img src="https://github.com/irahel/irahel/blob/main/gifs/gif-conect.gif?raw=true" width="30"> Stats for those love <img src="https://github.com/irahel/irahel/blob/main/gifs/gif-talk.gif?raw=true" width="30"> </h2>
+
+
 <div align="center">
   <a href="https://github.com/irahel">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=irahel&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=8997cc&icon_color=f4d8d3&text_color=e9b09e&bg_color=513c3f" alt="irahel's Github Stats">
