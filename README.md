@@ -33,5 +33,5 @@
 </div>
 
 <div align="center">
-  <img width="98%" src="https://tgs.fly.dev/irahel"/>
+  <img width="98%" src="https://tgs.fly.dev/irahel" />
 </div>
