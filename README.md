@@ -43,8 +43,11 @@
   <img width="98%" src="https://i.ibb.co/HHVcFX7/Irahel-2.png" />
 </div>
 
+  <!--
 <div align="flex-end">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />  
 </div>
+
+-->
   
 
