@@ -49,7 +49,7 @@
 <h2><img src="https://github.com/irahel/irahel/blob/main/gifs/gif-ok.gif?raw=true" width="30"> I code with <img src="https://github.com/irahel/irahel/blob/main/gifs/gif-running1.gif?raw=true" width="30"> </h2>
 
 <div align="center">
-<img width="50%" src="https://github-widgetbox.vercel.app/api/skills?names=js" />
+<img width="50%" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 <div align="center">
