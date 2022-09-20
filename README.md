@@ -38,5 +38,13 @@
 <div align="center">
   <img width="98%" src="https://tgs.fly.dev/irahel" />
 </div>
+
+<div align="center">
+  <img width="98%" src="https://i.ibb.co/zJcJwh0/Irahel.png" />
+</div>
+
+<div align="flex-end">
+  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+</div>
   
-<!--[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) -->
+
