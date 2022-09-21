@@ -57,12 +57,22 @@
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>
+
+
+<h2/>
 
 <div align="center">
   <img width="50%" src="https://i.ibb.co/HHVcFX7/Irahel-2.png" />
 </div>
+<div align="center">
+  <img width="50%" src="https://github.com/irahel/irahel/blob/main/gifs/gif-angry.gif?raw=true" />
+</div>
+
+<!-- future:
+https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white
+https://img.shields.io/badge/Game%20Jolt-CCFF00?style=for-the-badge&logo=Game%20Jolt&logoColor=white
+ --->
 
 <!--
 <div align="flex-end">
