@@ -66,7 +66,7 @@
   <img width="50%" src="https://i.ibb.co/HHVcFX7/Irahel-2.png" />
 </div>
 <div align="center">
-  <img width="50%" src="https://github.com/irahel/irahel/blob/main/gifs/gif-angry.gif?raw=true" />
+  <img width="30%" src="https://github.com/irahel/irahel/blob/main/gifs/gif-angry.gif?raw=true" />
 </div>
 
 <!-- future:
