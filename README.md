@@ -63,7 +63,7 @@
 <h2/>
 
 <div align="center">
-  <img width="50%" src="https://i.ibb.co/HHVcFX7/Irahel-2.png" />
+  <img width="66%" src="https://github.com/irahel/irahel/blob/main/gifs/IRAHEL-3.png?raw=true" />
 </div>
 <div align="center">
   <img width="30%" src="https://github.com/irahel/irahel/blob/main/gifs/gif-angry.gif?raw=true" />
