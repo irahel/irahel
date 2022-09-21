@@ -1,7 +1,7 @@
 <h2><img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"> Olá, eu sou Rahel! <img src="https://github.com/irahel/irahel/blob/main/gifs/gif-hello-pikachu.gif?raw=true" width="30"> </h2>
 
 <div>
-<img align="right" width="250" alt="Rahels photo" src="https://i.ibb.co/VNYQ2qF/rael-celeste.png"  />
+<img align="right" width="250" alt="Rahels photo" src="https://github.com/irahel/irahel/blob/main/gifs/eu.png?raw=true"  />
 
 💚 Hoje sou Instrutor do Módulo de *Ciencia da Computação na [Trybe](https://github.com/betrybe)!*.
 > _Aplicando **Python**, Algoritmos, Redes e Estruturas de Dados;_
