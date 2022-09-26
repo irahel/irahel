@@ -53,14 +53,12 @@
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 
-<div>
+
 <div align="center">
   <img width="66%" src="https://github.com/irahel/irahel/blob/main/gifs/IRAHEL-3.png?raw=true" />
 </div>
 <div align="center">
   <img width="30%" src="https://github.com/irahel/irahel/blob/main/gifs/gif-angry.gif?raw=true" />
-</div>
-<img width="30%" src="https://i.pinimg.com/originals/e9/b8/40/e9b8403898aab167de12ab6acbcc39dc.gif" />
 </div>
 
 <!-- future:
