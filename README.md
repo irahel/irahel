@@ -40,12 +40,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irahel&layout=compact&title_color=f7df1e&text_color=f7df1e&bg_color=22272e"/>
 </div>
 
-<!--
-<div align="center">
-  <img width="98%" src="https://tgs.fly.dev/irahel" />
-</div>
--->
-
 <h2><img src="https://github.com/irahel/irahel/blob/main/gifs/gif-ok.gif?raw=true" width="30"> I code with <img src="https://github.com/irahel/irahel/blob/main/gifs/gif-running1.gif?raw=true" width="30"> </h2>
 
 <div align="center">
@@ -58,6 +52,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
+
 
 <div align="center">
   <img width="66%" src="https://github.com/irahel/irahel/blob/main/gifs/IRAHEL-3.png?raw=true" />
@@ -76,4 +71,10 @@ https://img.shields.io/badge/Game%20Jolt-CCFF00?style=for-the-badge&logo=Game%20
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />  
 </div>
 
+-->
+
+<!--
+<div align="center">
+  <img width="30%" src="https://tgs.fly.dev/irahel" />
+</div>
 -->
