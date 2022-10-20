@@ -1,7 +1,7 @@
-<h2><img src="./res/gifs/name2.gif" width="25"/> Olá, eu sou Rahel! <img src="./res/gifs/name.gif" width="20"/> </h2>
+<h2><img src="./res/gifs/name3.gif" width="25"/> Olá, eu sou Rahel! <img src="./res/gifs/name.gif" width="20"/> </h2>
 
 <div>
-<div align="right"><a href="https://rahel.dev">rahel.dev</a></div>
+<div align="right"><a href="https://rahel.dev"> <img src="./res/gifs/site.gif" width="50"/> rahel.dev</a></div>
 <img align="right" height="375" alt="Rahels photo" src="./res/avatar2.png"  />
 
 💚 Hoje sou Instrutor do Módulo de *Ciencia da Computação na [Trybe](https://github.com/betrybe)!*.
