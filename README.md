@@ -1,7 +1,7 @@
-<h2><img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"> Olá, eu sou Rahel! <img src="https://github.com/irahel/irahel/blob/main/gifs/gif-hello-pikachu.gif?raw=true" width="30"> </h2>
+<h2><img src="./res/gifs/name2.gif" width="25"> Olá, eu sou Rahel! <img src="./res/gifs/name.gif" width="20"> </h2>
 
 <div>
-<img align="right" width="250" alt="Rahels photo" src="https://github.com/irahel/irahel/blob/main/gifs/eu.png?raw=true"  />
+<img align="right" width="250" alt="Rahels photo" src="./res/avatar.png"  />
 
 💚 Hoje sou Instrutor do Módulo de *Ciencia da Computação na [Trybe](https://github.com/betrybe)!*.
 > _Aplicando **Python**, Algoritmos, Redes e Estruturas de Dados;_
@@ -15,7 +15,7 @@
 🎓 Graduado e Mestre em Ciência da Computação
 > _Summa Cum Laude;_
 
-<h2><img src="https://github.com/irahel/irahel/blob/main/gifs/gif-conect.gif?raw=true" width="30"> Connect/Contact me <img src="https://github.com/irahel/irahel/blob/main/gifs/gif-talk.gif?raw=true" width="30"> </h2>
+<h2><img src="./res/gifs/connect.gif" width="25"> Connect/Contact me <img src="./res/gifs/connect2.gif" width="20"> </h2>
 
 <a href="mailto:rahelmartim@icloud.com" target="_blank">
 <img src=https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=email style="margin-bottom: 5px;" />
@@ -31,16 +31,16 @@
 </a>
 </div>
 
-<h2><img src="https://github.com/irahel/irahel/blob/main/gifs/gif-muybueno.gif?raw=true" width="30"> Stats for those love <img src="https://github.com/irahel/irahel/blob/main/gifs/gif-parado.gif?raw=true" width="30"> </h2>
+<h2><img src="./res/gifs/stats2.gif" width="30"> Stats for those love <img src="./res/gifs/stats.gif" width="20"> </h2>
 
 
 <div align="center">
   <a href="https://github.com/irahel">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=irahel&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=f7df1e&icon_color=d14836&text_color=f7df1e&bg_color=22272e" alt="irahel's Github Stats">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irahel&layout=compact&title_color=f7df1e&text_color=f7df1e&bg_color=22272e"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=irahel&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=A4C2F4&icon_color=e2f4a4&text_color=A4C2F4&bg_color=06152d" alt="irahel's Github Stats">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irahel&layout=compact&title_color=A4C2F4&text_color=A4C2F4&bg_color=06152d"/>
 </div>
 
-<h2><img src="https://github.com/irahel/irahel/blob/main/gifs/gif-ok.gif?raw=true" width="30"> I code with <img src="https://github.com/irahel/irahel/blob/main/gifs/gif-running1.gif?raw=true" width="30"> </h2>
+<h2><img src="./res/gifs/end.gif" width="25"> I code with <img src="./res/gifs/code.gif" width="20"> </h2>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?color=405DE6&style=for-the-badge&logo=python&logoColor=white" />
@@ -54,11 +54,13 @@
 </div>
 
 
-<div align="center">
-  <img width="66%" src="https://github.com/irahel/irahel/blob/main/gifs/IRAHEL-3.png?raw=true" />
-</div>
-<div align="center">
-  <img width="30%" src="https://github.com/irahel/irahel/blob/main/gifs/gif-angry.gif?raw=true" />
+<div align="center">>
+
+  <img align="center" width="80rem" src="./res/gifs/code2.gif" />
+  <img align="center" width="270rem" src="./res/ascii.png" />
+  <img align="center" width="80rem" src="./res/gifs/code2.gif" />
+
+
 </div>
 
 <!-- future:
