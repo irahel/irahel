@@ -54,14 +54,14 @@
 </div>
 
 
-<div align="center">>
-
-  <img align="center" width="80rem" src="./res/gifs/code2.gif" />
-  <img align="center" width="270rem" src="./res/ascii.png" />
-  <img align="center" width="80rem" src="./res/gifs/code2.gif" />
-
-
+<div align="center">
+  <img  width="80%" src="./res/ascii.png" />
 </div>
+<div align="center">
+  <img width="30%" src="./res/gifs/code2.gif" />
+</div>
+
+
 
 <!-- future:
 https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white
