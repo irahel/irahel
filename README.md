@@ -2,7 +2,7 @@
 
 <div>
 <div align="right"><a>https://rahel.dev</a></div>
-<img align="right" height="350" alt="Rahels photo" src="./res/avatar2.png"  />
+<img align="right" height="265" alt="Rahels photo" src="./res/avatar2.png"  />
 
 💚 Hoje sou Instrutor do Módulo de *Ciencia da Computação na [Trybe](https://github.com/betrybe)!*.
 > _Aplicando **Python**, Algoritmos, Redes e Estruturas de Dados;_
