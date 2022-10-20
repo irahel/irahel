@@ -1,7 +1,8 @@
 <h2><img src="./res/gifs/name2.gif" width="25"> Olá, eu sou Rahel! <img src="./res/gifs/name.gif" width="20"> </h2>
 
 <div>
-<img align="right" width="250" alt="Rahels photo" src="./res/avatar.png"  />
+<div align="right"><a>https://rahel.dev</a></div>
+<img align="right" height="350" alt="Rahels photo" src="./res/avatar2.png"  />
 
 💚 Hoje sou Instrutor do Módulo de *Ciencia da Computação na [Trybe](https://github.com/betrybe)!*.
 > _Aplicando **Python**, Algoritmos, Redes e Estruturas de Dados;_
