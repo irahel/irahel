@@ -1,8 +1,7 @@
 <h2> Olá, eu sou o Rahel! </h2>
 
 <div>
-🎓 Graduado e Mestre em Ciência da Computação
-> _Summa Cum Laude;_
+🎓 Graduado e Mestre em Ciência da Computação _Summa Cum Laude;_
 
 <h2><img src="./res/gifs/connect.gif" width="25"> Connect/Contact me <img src="./res/gifs/connect2.gif" width="20"> </h2>
 
@@ -20,7 +19,7 @@
 </a>
 </div>
 
-<h2><img src="./res/gifs/stats2.gif" width="30"> Stats for those love <img src="./res/gifs/stats.gif" width="20"> </h2>
+<h2>Stats </h2>
 
 
 <div align="center">
@@ -29,7 +28,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irahel&layout=compact&title_color=A4C2F4&text_color=A4C2F4&bg_color=06152d"/>
 </div>
 
-<h2><img src="./res/gifs/end.gif" width="25"> I code with <img src="./res/gifs/code.gif" width="20"> </h2>
+<h2> I code with </h2>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?color=405DE6&style=for-the-badge&logo=python&logoColor=white" />
@@ -40,14 +39,6 @@
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</div>
-
-
-<div align="center">
-  <img  width="80%" src="./res/ascii.png" />
-</div>
-<div align="center">
-  <img width="30%" src="./res/gifs/code2.gif" />
 </div>
 
 
