@@ -22,7 +22,7 @@
 <h2>Stats </h2>
 
 
-<div align="center">
+<div>
   <a href="https://github.com/irahel">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=irahel&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=A4C2F4&icon_color=e2f4a4&text_color=A4C2F4&bg_color=06152d" alt="irahel's Github Stats">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irahel&layout=compact&title_color=A4C2F4&text_color=A4C2F4&bg_color=06152d"/>
@@ -30,7 +30,7 @@
 
 <h2> I code with </h2>
 
-<div align="center">
+<div>
 <img src="https://img.shields.io/badge/Python-3776AB?color=405DE6&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
