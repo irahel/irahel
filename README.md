@@ -3,7 +3,7 @@
 <div>
 🎓 Graduado e Mestre em Ciência da Computação _Summa Cum Laude;_
 
-<h2><img src="./res/gifs/connect.gif" width="25"> Connect/Contact me <img src="./res/gifs/connect2.gif" width="20"> </h2>
+<h2> Connect/Contact me </h2>
 
 <a href="mailto:rahelmartim@icloud.com" target="_blank">
 <img src=https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=email style="margin-bottom: 5px;" />
