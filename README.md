@@ -1,7 +1,7 @@
 <h2> Olá, eu sou o Rahel! </h2>
 
 <div>
-🎓 Graduado e Mestre em Ciência da Computação _Summa Cum Laude;_
+🎓 Graduado e Mestre em Ciência da Computação _Summa Cum Laude_
 
 <h2> Connect/Contact me </h2>
 
