@@ -1,20 +1,43 @@
-<h2> Olá, eu sou o Rahel! </h2>
+# Hey, i'm Rahel 👋 *Hallo, ich bin Rahel*
 
-<div>
-🎓 Graduado e Mestre em Ciência da Computação - <i>Summa Cum Laude</i>
+### A Full-Stack developer passionate about Rust and Python!
 
-<h2> Connect/Contact me </h2>
+```rust
+struct SoftwareEngineer {
+    name: &'static str,
+    founder: &'static str,
+    language_spoken: Vec<&'static str>,
+    favorite_languages: Vec<&'static str>,
+}
 
-<a href="mailto:rahelmartim@icloud.com" target="_blank">
-<img src=https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=email style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/rahel-und" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>
+impl SoftwareEngineer {
+    fn new() -> SoftwareEngineer {
+        SoftwareEngineer {
+            name: "Rahel Martim",
+            founder: "Arapuá",
+            language_spoken: vec!["pt_BR", "en_US"],
+            favorite_languages: vec!["Rust", "Python", "C#", "JavaScript"],
+        }
+    }
 
-<h2>Stats </h2>
+    fn say_hi(&self) {
+        println!("Thanks for dropping by, hope you find some of my work interesting.");
+    }
+}
 
+fn main() {
+    let me = SoftwareEngineer::new();
+    me.say_hi();
+}
+```
+
+###  Try this in your console to connect with me. 👇
+
+```bash
+npx rahel
+```
+
+### Take a look at these stats
 
 <div>
   <a href="https://github.com/irahel">
@@ -22,35 +45,3 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irahel&layout=compact&title_color=A4C2F4&text_color=A4C2F4&bg_color=06152d"/>
 </div>
 
-<h2> I code with </h2>
-
-<div>
-<img src="https://img.shields.io/badge/Python-3776AB?color=405DE6&style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</div>
-
-
-
-<!-- future:
-https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white
-https://img.shields.io/badge/Game%20Jolt-CCFF00?style=for-the-badge&logo=Game%20Jolt&logoColor=white
- --->
-
-<!--
-<div align="flex-end">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />  
-</div>
-
--->
-
-<!--
-<div align="center">
-  <img width="30%" src="https://tgs.fly.dev/irahel" />
-</div>
--->
