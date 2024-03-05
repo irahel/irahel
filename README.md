@@ -1,4 +1,4 @@
-# Hey, i'm Rahel 👋 *Hallo, ich bin Rahel*
+# Hey, i'm Rahel 👋
 
 ### A Full-Stack developer passionate about Rust and Python!
 
